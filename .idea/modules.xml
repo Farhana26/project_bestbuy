@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bestbuy/bestbuy.iml" filepath="$PROJECT_DIR$/bestbuy/bestbuy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generic/generic.iml" filepath="$PROJECT_DIR$/generic/generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ikea/ikea.iml" filepath="$PROJECT_DIR$/ikea/ikea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onlineshop.iml" filepath="$PROJECT_DIR$/onlineshop.iml" />
+    </modules>
+  </component>
+</project>
